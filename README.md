@@ -6,4 +6,6 @@ Will also detect the language of each PDF
 
 ## Usage
 
+```py
 python3 extract_text.py -file filename.pdf -output "txt"
+```
